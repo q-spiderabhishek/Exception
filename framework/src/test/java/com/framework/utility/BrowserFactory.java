@@ -11,7 +11,7 @@ public class BrowserFactory {
 	public static WebDriver startApplication(WebDriver driver,String browserName,String appURL)
 	
 	{
-	if(browserName.equals("Firefox"))	
+	if(browserName.equals("Firefox"))	//
 		
 	{
 		
